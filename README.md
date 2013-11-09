@@ -1,0 +1,4 @@
+phonegapp
+=========
+
+First Phonegap App
